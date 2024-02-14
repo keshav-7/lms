@@ -2,8 +2,8 @@
 
 ## Credentials
 FOR Admin
-- Username:- **admin**
+- Username:- **admin@gmail.com**
 - Password:- **admin123**
 For Staff - 
-- Username:- **staff**
-- Password:- **staff123**  # elms
+- Username:- **test@gmail.com**
+- Password:- **test@123**  # elms
